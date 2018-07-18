@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: RiKomIO
 email:
 description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
+baseurl: "/blog" # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
+  name: Richard Lord
+  twitter: rmlord
+  picture: assets/images/photo.jpg
+twitter_username: rmlord
+github_username: ricklord
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
