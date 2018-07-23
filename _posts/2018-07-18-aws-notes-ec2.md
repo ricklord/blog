@@ -1,8 +1,10 @@
 ---
 layout: post
-title: AWS Notes - Elastic Compute (EC2)
+title: AWS Notes - EC2
 image: "assets/images/banner-1686944_1920.jpg"
 ---
+Notes on Amazon Web Services Elastic Compute Cloud
+
 ## EC2 Basics
 * EC2 stands for "Elastic Compute Cloud"
 * AWS has about 15 regions, not including GovCloud
