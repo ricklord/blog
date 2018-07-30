@@ -5,6 +5,21 @@ image: "assets/images/banner-1686944_1920.jpg"
 ---
 Notes on Amazon Web Services Elastic Compute Cloud
 
+## Storage FAQs
+* [Amazon EC2 FAQ](https://aws.amazon.com/ec2/faqs/)
+* [Amazon EC2 Auto Scaling FAQ](https://aws.amazon.com/ec2/autoscaling/faqs/)
+* [Amazon EC2 Windows FAQ](https://aws.amazon.com/windows/faq/)
+* [Amazon EC2 Container Registry FAQ](https://aws.amazon.com/ecr/faqs/)
+* [Amazon EC2 Container Service FAQ](https://aws.amazon.com/ecs/faqs/)
+* [Amazon Lightsail FAQ](https://aws.amazon.com/lightsail/faq/)
+* [AWS Batch FAQ](https://aws.amazon.com/batch/faqs/)
+* [AWS Elastic Beanstalk FAQ](https://aws.amazon.com/elasticbeanstalk/faqs/)
+* [AWS Fargate FAQ](https://aws.amazon.com/fargate/faqs/)
+* [AWS Lambda FAQ](https://aws.amazon.com/lambda/faqs/)
+* [AWS Serverless Application Repository FAQ](https://aws.amazon.com/serverless/serverlessrepo/faqs/)
+* [Elastic Load Balancing FAQ](https://aws.amazon.com/elasticloadbalancing/faqs/)
+* [VMware Cloud on AWS FAQ](https://aws.amazon.com/vmware/faqs/)
+
 ## EC2 Basics
 * EC2 stands for "Elastic Compute Cloud"
 * AWS has about 15 regions, not including GovCloud
